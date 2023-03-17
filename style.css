@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: beige;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+figcaption span {
+    font-size: 16px;
+}
+
+.header {
+    padding: 20px;
+    font-family: sans-serif;
+    background-color: blue;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 50px;
+}
+
+.header nav {
+    padding-top: 20px;
+    margin-right: 20px;
+    float: right;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 28 px;
+}
+
+.hero {
+    margin-bottom: 600px;
+    margin-left: 45%;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 150px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline-flexbox
+    justify-content: space-between
+    font-family: sans-serif;
+    background-color: rgb(126, 106, 106);
+}
+
+.About-me {
+    margin-bottom: 30px;
+    color: white;
+}
+
+.My-work {
+    margin-bottom: 30px;
+    color: white;
+}
+.My-work a {
+    margin: 100px;
+    object-fit: cover;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Contact-info {
+    margin-bottom: 30px;
+    color: white;
+}
+
+.About-me h2 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.My-work h2 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.Contact-info h2 {
+    margin-bottom: 10px;
+    text-align: center;
+}

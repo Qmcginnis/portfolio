@@ -1,7 +1,8 @@
 # Portfolio
 In this challenge we were tasked with creating a portfolio that looked clean and showed off what we have to offer as coders. We were tasked with providing an about me, contact info, and past projects lists and making them look good and follow proper CSS and HTML etiquette. Given that the page is resized it must also look correct under different resolutions!
 
-![Alt Text](/assets/images/127.0.0.1_5500_Index.html.png"Webpage screenshot")
+![Alt Text](/assets/images/127.0.0.1_5500_Index.html.png)
+
 https://qmcginnis.github.io/portfolio/
 
 Copyright (c) [2023] [Quinn Mcginnis]
